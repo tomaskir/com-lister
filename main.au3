@@ -12,7 +12,7 @@ Opt("GUIOnEventMode", 1)
 
 ; output file info
 #AutoIt3Wrapper_Res_Description=Lists available COM ports on Windows
-#AutoIt3Wrapper_Res_LegalCopyright=Copyright (c) 2016-2018, NetCore
+#AutoIt3Wrapper_Outfile=COM-lister.exe
 
 ; wrapper options
 #AutoIt3Wrapper_UseX64=n
