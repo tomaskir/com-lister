@@ -118,8 +118,6 @@ While True
 			For $i = 1 To $ports[0]
 				$comText = $comText & " - " & $ports[$i] & @CRLF
 			Next
-
-			_ArrayDisplay($ports)
 		EndIf
 	EndIf
 
