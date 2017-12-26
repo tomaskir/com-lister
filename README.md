@@ -3,6 +3,7 @@ COM-lister lists available COM ports on your Windows machine.
 The list of COM ports auto-refreshes every 1 second.
 
 # Preview
+<img src="https://raw.githubusercontent.com/tomaskir/com-lister/master/media/preview.png">
 
 # How to use
 Simply download and launch the application.
